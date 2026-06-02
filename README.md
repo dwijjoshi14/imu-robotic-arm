@@ -9,7 +9,7 @@
 
 ## Overview
 
-Tilt an MPU-6050 IMU and a 3-DOF servo arm mirrors the motion in real time. The firmware runs on STM32F103 under FreeRTOS — sensor reading, angle computation, and servo output each run in dedicated tasks, communicating via queues.
+Tilt an MPU-6050 IMU and a 3-DOF servo arm mirrors the motion in real time. The firmware runs on STM32F103 under FreeRTOS - sensor reading, angle computation, and servo output each run in dedicated tasks, communicating via queues.
 
 ## Architecture
 
